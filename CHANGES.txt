@@ -1,0 +1,5 @@
+CHANGES:
+
+We have used barrier method instead of one-one communication because we are using spatial hashing.
+
+We have also used more instances of classes than what was mentioned in our Design Document to suit our requirements.
